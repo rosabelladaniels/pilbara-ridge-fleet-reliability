@@ -1,0 +1,19 @@
+# Raw source data
+01_raw_data/
+
+# Large recordings and personal build evidence
+08_screen_recordings/
+09_build_evidence/
+
+# Temporary Power BI files
+*.pbix~
+*.tmp
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
